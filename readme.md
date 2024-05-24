@@ -25,7 +25,7 @@ ChatApp is a mini chat application developed using HTML, CSS, JavaScript, AJAX, 
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/ChatApp.git`
+1. Clone the repository: `git clone https://github.com/HopSoft-Tech/ChatApp.git`
 2. Import the database: Use the provided SQL file to import the database structure and initial data.
 3. Configure the database connection: Update the database credentials in the PHP files.
 4. Start the server: Run the application on a web server (e.g., XAMPP, WAMP, or MAMP).
